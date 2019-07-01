@@ -4,7 +4,6 @@
 ### Trabajo de Fin de Máster para acceder al Máster en Data Science
 #### Curso académico 2018-2019
 # **ANÁLISIS DE DATOS DE DISPOSITIVOS DEPORTIVOS**
-## (Data analysis of sport devices)
 
 * ### Trabajo realizado por **Elsa Cerezo Fernández**
 * ### Dirigido por **Francisco Matorras Weinig**
