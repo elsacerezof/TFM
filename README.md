@@ -5,8 +5,8 @@
 #### Curso académico 2018-2019
 # **ANÁLISIS DE DATOS DE DISPOSITIVOS DEPORTIVOS**
 
-* ### Trabajo realizado por **Elsa Cerezo Fernández**
-* ### Dirigido por **Francisco Matorras Weinig**
+### Trabajo realizado por **Elsa Cerezo Fernández**
+### Dirigido por **Francisco Matorras Weinig**
 #### [Defensa julio - 2019]
 
 ---
