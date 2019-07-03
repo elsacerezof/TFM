@@ -23,8 +23,6 @@ Los resultados obtenidos muestran que los modelos propuestos consiguen reproduci
 
 Los datos recogidos y tratados son datos personales que contienen fechas y datos de geoposicionamiento con los que se podría llegar a identificar a los individuos que facilitaron estos datos. Por lo tanto, los datos no serán publicados.
 
----
-
 ### Estructura del repositorio
 
 <img src="https://github.com/elsacerezof/TFM/blob/master/doc/Imgs/estructuraRepositorioGit.png"/>
