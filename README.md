@@ -23,13 +23,12 @@ Los resultados obtenidos muestran que los modelos propuestos consiguen reproduci
 
 Los datos recogidos y tratados son datos personales que contienen fechas y datos de geoposicionamiento con los que se podría llegar a identificar a los individuos que facilitaron estos datos. Por lo tanto, los datos no serán publicados.
 
-### Funciones desarrolladas
-
-Las funciones y código desarrollado para el tratamiento y análisis de los datos se pueden encontrar en la carpeta **src** de este repositorio.
-
 ---
 
 ### Estructura del repositorio
 
+<img src="https://github.com/elsacerezof/TFM/blob/master/doc/Imgs/estructuraRepositorioGit.png"/>
 
-
+El presente repositorio se compone de dos carpetas:
+- ``src``: Se incluyen las funciones y el código principales desarrollados para el tratamiento y análisis de lso datos.
+- ``doc``: Se incluyen las imágenes que se han utilizado para la memoria y para el README.md del repositorio.
